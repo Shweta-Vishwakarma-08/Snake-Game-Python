@@ -1,1 +1,1 @@
-To run the game: python main.py
+# To run the game: python main.py
